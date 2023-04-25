@@ -1,0 +1,24 @@
+.meunome{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 3rem;
+}
+.ai{
+    margin: 3rem;
+    color: brown;
+}
+.sobremim{
+    margin: 3rem;
+}
+.borda{
+    border-bottom: dotted 1rem rgb(52, 52, 53);
+    margin-left: rem;
+}
+.titulocontato{
+    text-align: center;
+}
+.links{
+    border-top: 30px solid rgb(110, 7, 7);
+    background-color: rgb(151, 149, 149);
+    padding: 1rem;
+}
